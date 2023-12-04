@@ -1,4 +1,9 @@
-Fyyur
+## Full Stack Developer Nanodegree Program - Udacity x Misk 
+Oct 24 2020
+
+Part 1 - SQL and Data Modeling for the Web
+
+Project 1: Fyyur - Artist Booking Site  
 -----
 
 ## Introduction
